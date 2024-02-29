@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pagar", "Pagar\Pagar.csproj", "{BE385634-1AC8-494F-8317-8099F24AA64C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PAGARNEW", "PAGARNEW\PAGARNEW.vdproj", "{F502830E-0C5B-403A-AB01-93A7FA6F0253}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{6C89A6C0-44E6-4A5A-858B-1896CCC39FF9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup2", "Setup2\Setup2.vdproj", "{1DE35362-C916-4E02-924F-FAAA8E86E4D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE385634-1AC8-494F-8317-8099F24AA64C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE385634-1AC8-494F-8317-8099F24AA64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE385634-1AC8-494F-8317-8099F24AA64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE385634-1AC8-494F-8317-8099F24AA64C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F502830E-0C5B-403A-AB01-93A7FA6F0253}.Debug|Any CPU.ActiveCfg = Debug
+		{F502830E-0C5B-403A-AB01-93A7FA6F0253}.Release|Any CPU.ActiveCfg = Release
+		{6C89A6C0-44E6-4A5A-858B-1896CCC39FF9}.Debug|Any CPU.ActiveCfg = Debug
+		{6C89A6C0-44E6-4A5A-858B-1896CCC39FF9}.Release|Any CPU.ActiveCfg = Release
+		{1DE35362-C916-4E02-924F-FAAA8E86E4D4}.Debug|Any CPU.ActiveCfg = Debug
+		{1DE35362-C916-4E02-924F-FAAA8E86E4D4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

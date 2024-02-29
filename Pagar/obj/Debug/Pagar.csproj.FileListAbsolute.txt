@@ -1,0 +1,12 @@
+c:\users\brijesh\documents\visual studio 2015\Projects\Pagar\Pagar\bin\Debug\Pagar.exe.config
+c:\users\brijesh\documents\visual studio 2015\Projects\Pagar\Pagar\bin\Debug\Pagar.exe
+c:\users\brijesh\documents\visual studio 2015\Projects\Pagar\Pagar\bin\Debug\Pagar.pdb
+c:\users\brijesh\documents\visual studio 2015\Projects\Pagar\Pagar\obj\Debug\Pagar.Form1.resources
+c:\users\brijesh\documents\visual studio 2015\Projects\Pagar\Pagar\obj\Debug\Pagar.Home.resources
+c:\users\brijesh\documents\visual studio 2015\Projects\Pagar\Pagar\obj\Debug\Pagar.Karigar.resources
+c:\users\brijesh\documents\visual studio 2015\Projects\Pagar\Pagar\obj\Debug\Pagar.Properties.Resources.resources
+c:\users\brijesh\documents\visual studio 2015\Projects\Pagar\Pagar\obj\Debug\Pagar.csproj.GenerateResource.Cache
+c:\users\brijesh\documents\visual studio 2015\Projects\Pagar\Pagar\obj\Debug\Pagar.exe
+c:\users\brijesh\documents\visual studio 2015\Projects\Pagar\Pagar\obj\Debug\Pagar.pdb
+C:\Users\brijesh\documents\visual studio 2015\Projects\Pagar\Pagar\obj\Debug\Pagar.csprojResolveAssemblyReference.cache
+C:\Users\brijesh\documents\visual studio 2015\Projects\Pagar\Pagar\obj\Debug\Pagar.reportForm.resources
